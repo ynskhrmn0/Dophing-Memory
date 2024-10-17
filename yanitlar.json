@@ -1,7 +1,74 @@
 {
-  "photos": [
-    "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
-    "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-    "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
-  ]
+  "Türkçe": {
+    "photos": [
+        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
+        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
+        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
+    ]
+  },
+  "Matematik": {
+    "12": {
+      "photos": [
+      ]
+    },
+    "AYT": {
+      "photos": [
+        "https://drive.google.com/uc?id=photo3"
+      ]
+    },
+    "TYT": {
+      "photos": [
+        "https://drive.google.com/uc?id=photo4"
+      ]
+    }
+  },
+  "Kimya": {
+    "12": {
+      "photos": [
+        "https://drive.google.com/uc?id=photo5"
+      ]
+    },
+    "AYT": {
+      "photos": []
+    },
+    "TYT": {
+      "photos": []
+    }
+  },
+  "Geometri": {
+    "photos": [
+      "https://drive.google.com/uc?id=photo6"
+    ]
+  },
+  "Fizik": {
+    "12": {
+      "photos": []
+    },
+    "AYT": {
+      "photos": [
+        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
+        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
+        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
+      ]
+    },
+    "TYT": {
+      "photos": []
+    }
+  },
+  "Biyoloji": {
+    "12": {
+      "photos": []
+    },
+    "AYT": {
+      "photos": []
+    },
+    "TYT": {
+      "photos": []
+    }
+  },
+  "Tarih": {
+    "photos": [
+      "https://drive.google.com/uc?id=photo7"
+    ]
+  }
 }
