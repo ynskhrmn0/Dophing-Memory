@@ -1,39 +1,29 @@
 {
   "Türkçe": {
     "photos": [
-        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
     ]
   },
   "Matematik": {
     "12": {
       "photos": [
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC"
+        "https://drive.google.com/uc?id=1ezSS0tV1QdnmQW6IYXZzBaZ36fQSIets",
+        "https://drive.google.com/uc?id=1BwjLCE83IewzeG7nxDwHA4UEzMaSN-9K",
+        "https://drive.google.com/uc?id=1ePlhOKfz748R-MJ-8C3O5OrA7AlrbrDK",
+        "https://drive.google.com/uc?id=1wEHDRmt6TxUoxmPm3ZnkPNfLk4wRuZRM"
       ]
     },
     "AYT": {
       "photos": [
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
       ]
     },
     "TYT": {
       "photos": [
-        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL"
       ]
     }
   },
   "Kimya": {
     "12": {
       "photos": [
-        "https://drive.google.com/uc?id=photo5"
       ]
     },
     "AYT": {
@@ -45,15 +35,11 @@
   },
   "Geometri": {
     "photos": [
-        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
     ]
   },
   "Fizik": {
     "12": {
       "photos": [
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
       ]
     },
     "AYT": {
@@ -68,23 +54,25 @@
   },
   "Biyoloji": {
     "12": {
-      "photos": []
-    },
-    "AYT": {
-      "photos": []
-    },
-    "TYT": {
       "photos": [
         "https://drive.google.com/uc?id=1JNKW0GG4O2nhUF6OtKocyhVPIQhYonpv",
         "https://drive.google.com/uc?id=1D9rEPiBmdukCMRZPbqRLCJDd0xjfnMU0"
+      ]
+    },
+    "AYT": {
+      "photos": [
+        "https://drive.google.com/uc?id=1KmwDXgh2HSM0yo-m8WSHxzR5QGVtDRVC",
+        "https://drive.google.com/uc?id=136RS-QOHAtgq5HQYbkUhOn0FDQ7F5tc6",
+        "https://drive.google.com/uc?id=1cHq1K_2Yaai2bRfhNDgwSNesZbPm-wQ1"
+      ]
+    },
+    "TYT": {
+      "photos": [
       ]
     }
   },
   "Tarih": {
     "photos": [
-        "https://drive.google.com/uc?id=1iM6JLphQuAmUcWxCOap9scQiZeSpR9FL",
-        "https://drive.google.com/uc?id=1Q9OR8ykwP9vFNusYBC0pZ8wlQij9g_xC",
-        "https://drive.google.com/uc?id=1mn3gQ459ENX-WNVcmMQdEKGJHa7M426y"
     ]
   }
 }
