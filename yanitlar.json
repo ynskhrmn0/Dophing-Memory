@@ -77,9 +77,6 @@
   "Fizik": {
     "12": {
       "photos": [
-        "https://drive.google.com/uc?id=1pcOTreCN_wYMXqAWplt8qiziOXMBhKXP",
-        "https://drive.google.com/uc?id=1edLF2E5Nya2XDSVHyOPT2FIASFZiJ5IN",
-        "https://drive.google.com/uc?id=1Yu0y3nH4VF2C3ySIZ3krH23uhjWoySqJ",
         "https://drive.google.com/uc?id=1vyRs-JRX8D0H9XUgpwSFhiLpVd-jN0kQ",
         "https://drive.google.com/uc?id=1LbO7J5sOcGqAxIOdMvECN1QO3sztfd-7"
       ]
@@ -91,7 +88,11 @@
       ]
     },
     "TYT": {
-      "photos": []
+      "photos": [
+        "https://drive.google.com/uc?id=1pcOTreCN_wYMXqAWplt8qiziOXMBhKXP",
+        "https://drive.google.com/uc?id=1edLF2E5Nya2XDSVHyOPT2FIASFZiJ5IN",
+        "https://drive.google.com/uc?id=1Yu0y3nH4VF2C3ySIZ3krH23uhjWoySqJ"
+      ]
     }
   },
   "Biyoloji": {
